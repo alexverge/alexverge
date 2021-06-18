@@ -1,0 +1,3 @@
+- 👋 Hello world, I’m @alexverge.
+- 👀 I’m first to github,hope to learn CS,and share when I can creat some project.
+- It's great that if you could give me some advice.thank you for reading!
